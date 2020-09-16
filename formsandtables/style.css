@@ -1,0 +1,19 @@
+table, td, th {
+
+    border: 5px solid rgba(58, 47, 47, 0.966);
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+    border-spacing: 5px;
+    margin-top: 85px;
+}
+table{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+main{
+    margin-left: 500px;
+}
+h2{
+    margin-left: 125px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
